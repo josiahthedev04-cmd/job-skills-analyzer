@@ -1,0 +1,33 @@
+Top repeated skills/tools from AI career job tracker
+=======================================================
+
+   Skill or Tool  Number of Job Rows Mentioning It
+          Python                                 5
+             Git                                 5
+   Cybersecurity                                 5
+   Observability                                 4
+            APIs                                 4
+           Cloud                                 3
+          Docker                                 3
+             SQL                                 3
+   Documentation                                 3
+   Communication                                 3
+            LLMs                                 3
+           Linux                                 3
+             RAG                                 2
+ Troubleshooting                                 2
+       AI Agents                                 2
+Machine Learning                                 1
+             AWS                                 1
+        Power BI                                 1
+           Excel                                 1
+           Azure                                 1
+         Tableau                                 1
+      Databricks                                 1
+           Spark                                 1
+             ETL                                 1
+         Testing                                 1
+           CI/CD                                 1
+         FastAPI                                 1
+             IAM                                 1
+      Automation                                 1
