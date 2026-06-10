@@ -180,3 +180,48 @@ For my AI career path, this means my learning order should be:
 8. LLMs and RAG
 9. Logging and observability
 10. Documentation and communication
+
+## Role-by-Role Skill Analysis
+
+In Version 2 of this project, I added a role-by-role analysis.
+
+The first version answered:
+
+"What skills appear most often overall?"
+
+The second version answers:
+
+"What skills appear most often for each job role?"
+
+This is important because different roles require different skill combinations. For example:
+
+- AI Engineer roles may focus more on Python, LLMs, RAG, APIs, and cloud.
+- Data Analyst roles may focus more on SQL, Excel, dashboards, reporting, and communication.
+- Cybersecurity Analyst roles may focus more on security, IAM, incident response, logs, and monitoring.
+- Cloud Support roles may focus more on troubleshooting, cloud platforms, documentation, and customer support.
+- Python Developer roles may focus more on Python, APIs, Git, testing, and backend development.
+
+## Version 2 Files
+
+- `analyze_skills_by_role.py` - Python script that analyzes skills by role.
+- `role_by_role_skill_report.csv` - CSV output showing skills grouped by job role.
+- `role_by_role_skill_report.txt` - Text report showing the top skills for each role.
+
+## What I Learned From Version 2
+
+The overall skill report showed that Python, Git, and Cybersecurity appeared most often.
+
+The role-by-role report makes the project more useful because it shows that I should not learn skills randomly. I should learn skills based on the type of job I want first.
+
+For my AI career path, this means my learning order should be:
+
+1. Python
+2. Git and GitHub
+3. Cybersecurity basics
+4. APIs
+5. SQL
+6. Cloud basics
+7. Docker
+8. LLMs and RAG
+9. Logging and observability
+10. Documentation and communication
