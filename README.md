@@ -225,3 +225,52 @@ For my AI career path, this means my learning order should be:
 8. LLMs and RAG
 9. Logging and observability
 10. Documentation and communication
+
+<!-- ROLE_CHARTS_START -->
+
+## Role-by-Role Charts
+
+The charts below show the top skills detected for each job role in the tracker.
+
+### AI Automation Developer
+
+![Top Skills for AI Automation Developer](charts_by_role/ai_automation_developer_top_skills.png)
+
+### AI Software Developer
+
+![Top Skills for AI Software Developer](charts_by_role/ai_software_developer_top_skills.png)
+
+### Cloud Support Engineer
+
+![Top Skills for Cloud Support Engineer](charts_by_role/cloud_support_engineer_top_skills.png)
+
+### Cybersecurity Analyst
+
+![Top Skills for Cybersecurity Analyst](charts_by_role/cybersecurity_analyst_top_skills.png)
+
+### Data Engineer
+
+![Top Skills for Data Engineer](charts_by_role/data_engineer_top_skills.png)
+
+### IT Support Analyst
+
+![Top Skills for IT Support Analyst](charts_by_role/it_support_analyst_top_skills.png)
+
+### Junior AI Engineer
+
+![Top Skills for Junior AI Engineer](charts_by_role/junior_ai_engineer_top_skills.png)
+
+### Junior Data Analyst
+
+![Top Skills for Junior Data Analyst](charts_by_role/junior_data_analyst_top_skills.png)
+
+### Machine Learning Engineer Intern
+
+![Top Skills for Machine Learning Engineer Intern](charts_by_role/machine_learning_engineer_intern_top_skills.png)
+
+### Python Developer
+
+![Top Skills for Python Developer](charts_by_role/python_developer_top_skills.png)
+
+
+<!-- ROLE_CHARTS_END -->
