@@ -1,0 +1,97 @@
+Role-by-role skill report
+===================================
+
+AI Automation Developer
+-----------------------
+- AI Agents: 1
+- APIs: 1
+- Automation: 1
+- Cybersecurity: 1
+- LLMs: 1
+- RAG: 1
+
+AI Software Developer
+---------------------
+- AI Agents: 1
+- APIs: 1
+- Cloud: 1
+- Docker: 1
+- Git: 1
+- LLMs: 1
+- Observability: 1
+- Python: 1
+
+Cloud Support Engineer
+----------------------
+- AWS: 1
+- Azure: 1
+- Cloud: 1
+- Communication: 1
+- Cybersecurity: 1
+- Linux: 1
+- Observability: 1
+- Troubleshooting: 1
+
+Cybersecurity Analyst
+---------------------
+- Cybersecurity: 1
+- Documentation: 1
+- IAM: 1
+- Observability: 1
+
+Data Engineer
+-------------
+- Cloud: 1
+- Databricks: 1
+- ETL: 1
+- Git: 1
+- Python: 1
+- SQL: 1
+- Spark: 1
+
+IT Support Analyst
+------------------
+- Communication: 1
+- Cybersecurity: 1
+- Documentation: 1
+- Observability: 1
+- Troubleshooting: 1
+
+Junior AI Engineer
+------------------
+- APIs: 1
+- Docker: 1
+- Documentation: 1
+- Git: 1
+- LLMs: 1
+- Linux: 1
+- Python: 1
+- RAG: 1
+
+Junior Data Analyst
+-------------------
+- Communication: 1
+- Excel: 1
+- Power BI: 1
+- SQL: 1
+- Tableau: 1
+
+Machine Learning Engineer Intern
+--------------------------------
+- Git: 1
+- Machine Learning: 1
+- Python: 1
+- SQL: 1
+
+Python Developer
+----------------
+- APIs: 1
+- CI/CD: 1
+- Cybersecurity: 1
+- Docker: 1
+- FastAPI: 1
+- Git: 1
+- Linux: 1
+- Python: 1
+- Testing: 1
+

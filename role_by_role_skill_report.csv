@@ -1,0 +1,65 @@
+Role,Skill or Tool,Mentions
+AI Automation Developer,AI Agents,1
+AI Automation Developer,APIs,1
+AI Automation Developer,Automation,1
+AI Automation Developer,Cybersecurity,1
+AI Automation Developer,LLMs,1
+AI Automation Developer,RAG,1
+AI Software Developer,AI Agents,1
+AI Software Developer,APIs,1
+AI Software Developer,Cloud,1
+AI Software Developer,Docker,1
+AI Software Developer,Git,1
+AI Software Developer,LLMs,1
+AI Software Developer,Observability,1
+AI Software Developer,Python,1
+Cloud Support Engineer,AWS,1
+Cloud Support Engineer,Azure,1
+Cloud Support Engineer,Cloud,1
+Cloud Support Engineer,Communication,1
+Cloud Support Engineer,Cybersecurity,1
+Cloud Support Engineer,Linux,1
+Cloud Support Engineer,Observability,1
+Cloud Support Engineer,Troubleshooting,1
+Cybersecurity Analyst,Cybersecurity,1
+Cybersecurity Analyst,Documentation,1
+Cybersecurity Analyst,IAM,1
+Cybersecurity Analyst,Observability,1
+Data Engineer,Cloud,1
+Data Engineer,Databricks,1
+Data Engineer,ETL,1
+Data Engineer,Git,1
+Data Engineer,Python,1
+Data Engineer,SQL,1
+Data Engineer,Spark,1
+IT Support Analyst,Communication,1
+IT Support Analyst,Cybersecurity,1
+IT Support Analyst,Documentation,1
+IT Support Analyst,Observability,1
+IT Support Analyst,Troubleshooting,1
+Junior AI Engineer,APIs,1
+Junior AI Engineer,Docker,1
+Junior AI Engineer,Documentation,1
+Junior AI Engineer,Git,1
+Junior AI Engineer,LLMs,1
+Junior AI Engineer,Linux,1
+Junior AI Engineer,Python,1
+Junior AI Engineer,RAG,1
+Junior Data Analyst,Communication,1
+Junior Data Analyst,Excel,1
+Junior Data Analyst,Power BI,1
+Junior Data Analyst,SQL,1
+Junior Data Analyst,Tableau,1
+Machine Learning Engineer Intern,Git,1
+Machine Learning Engineer Intern,Machine Learning,1
+Machine Learning Engineer Intern,Python,1
+Machine Learning Engineer Intern,SQL,1
+Python Developer,APIs,1
+Python Developer,CI/CD,1
+Python Developer,Cybersecurity,1
+Python Developer,Docker,1
+Python Developer,FastAPI,1
+Python Developer,Git,1
+Python Developer,Linux,1
+Python Developer,Python,1
+Python Developer,Testing,1
