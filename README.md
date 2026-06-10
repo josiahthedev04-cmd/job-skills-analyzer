@@ -128,3 +128,10 @@ Future improvements for this project include:
 * Track how job requirements change over time
 * Separate the analysis by role type, such as AI Engineer, Data Analyst, Cybersecurity Analyst, and Cloud Support Engineer
 * Add a simple web dashboard version of the project
+
+## Results Chart
+
+The chart below shows the most repeated skills and tools found in the job market sample.
+
+![Top Skills Chart](top_skills_chart.png)
+
